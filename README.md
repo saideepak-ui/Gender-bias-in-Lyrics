@@ -1,4 +1,4 @@
-# 🎶 Gender Bias in Lyrics
+# 🎶 Gender Bias in Lyrics / Sonic Strereotypes Analysis
 **A Data-Driven Analysis of Language, Sentiment & Storytelling in Popular Music**  
 
 ---
@@ -48,9 +48,6 @@ gender-bias-in-lyrics/
 
 ---
 
-## 📸 Project Dashboard Preview
-
-![Dashboard Screenshot](visuals/dashboard_screenshot.png)
 
 ---
 
